@@ -1,3 +1,6 @@
+# Django REST framework Tutorial
+https://www.django-rest-framework.org/tutorial/quickstart/
+
 <img width="1160" alt="1" src="https://github.com/yyysolhhh/DRF-tutorial_study/assets/70841430/637f2597-565e-417c-a022-0b58c63a2cd2">
 
 <img width="1154" alt="2" src="https://github.com/yyysolhhh/DRF-tutorial_study/assets/70841430/ed1d77c4-6b41-4e35-9f86-b9f35ee61961">
