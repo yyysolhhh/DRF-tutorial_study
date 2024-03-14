@@ -1,6 +1,7 @@
+from django.contrib.auth.models import User
 from rest_framework import serializers
 from snippets.models import Snippet
-from django.contrib.auth.models import User
+
 
 # from .models import LANGUAGE_CHOICES, STYLE_CHOICES
 
